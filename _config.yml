@@ -18,6 +18,10 @@ social:
     github: panwang3
     mail: wangpan_1003@163.com
 
+#百度统计
+baidu:
+    id:d578b9cd407097f148db8da672affd64
+
 permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
