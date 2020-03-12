@@ -9,5 +9,5 @@ tags: Java
 
 - Setting >Plugins>Spring Assistant
 
-  ![](..\images\my\微信截图_20200312203310.png)
+  ![](https://github.com/PanWang3/panwang3.github.io/raw/gh-pages/images/my/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200312203310.png)
 
