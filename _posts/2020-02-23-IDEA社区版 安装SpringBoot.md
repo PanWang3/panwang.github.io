@@ -9,5 +9,5 @@ tags: Java
 
 - Setting >Plugins>Spring Assistant
 
-  ![](\images\微信截图_20200312203310.png)
+  ![](..\images\my\微信截图_20200312203310.png)
 
